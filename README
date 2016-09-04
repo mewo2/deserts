@@ -1,0 +1,6 @@
+Linux Packages Required:
+dvipng
+xzdec
+texlive-latex-base
+texlive-latex-extra
+texlive-fonts-recommended
